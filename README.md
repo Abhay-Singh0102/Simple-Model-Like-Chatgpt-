@@ -1,2 +1,2 @@
 # Model Like Chatgpt
-Music Player By Using HTML, CSS and JS
+Chat-Model By Using HTML, CSS and JS
